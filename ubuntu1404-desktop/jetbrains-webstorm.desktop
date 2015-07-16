@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=WebStorm
+Icon=/home/vagrant/webstorm/bin/webide.png
+Exec="/home/vagrant/bin/webstorm" %f
+Comment=Develop with pleasure!
+Categories=Development;IDE;
+Terminal=false
+StartupWMClass=jetbrains-webstorm
+OnlyShowIn=Old;
