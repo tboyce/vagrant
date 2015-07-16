@@ -1,0 +1,12 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.10.0" value="14" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="WebStorm.inlineDebuggerEnabled" value="true" />
+    <property name="WebStorm.lineNumbersEnabled" value="true" />
+    <property name="installation.uid" value="cb8adefc-17f6-4506-bab5-bdb5493712f9" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+  </component>
+</application>

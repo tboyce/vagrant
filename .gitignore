@@ -1,2 +1,3 @@
 **/.vagrant
-ubuntu1404-desktop/WebStorm-10.0.4.tar.gz
+**/*.tar.gz
+**/*.key
