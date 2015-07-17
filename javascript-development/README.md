@@ -1,10 +1,12 @@
-Pre-configured with:
+# JavaScript Development Environment #
+
+## Apps ##
 * NodeJS
 * Chrome
 * WebStorm
 * Git
 
-Utilities for NodeJS development:
+## Utilities for NodeJS development ##
 * NPM
 * Grunt
 * Gulp
@@ -12,7 +14,7 @@ Utilities for NodeJS development:
 * Karma
 * Yeoman
 
-To get started with a new AngularJS project:
+## Getting started with a new AngularJS project ##
 ```
 mkdir app
 cd app
