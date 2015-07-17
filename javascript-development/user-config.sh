@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 
 # Install WebStorm
-tar xvfz /vagrant/WebStorm-10.0.4.tar.gz -C /home/vagrant
-mv /home/vagrant/WebStorm-141.1550 /home/vagrant/webstorm
-cp -R /vagrant/.WebStorm10 /home/vagrant/
-sudo chown -R vagrant /home/vagrant/.WebStorm10
+tar xvfz /vagrant/WebStorm-10.0.4.tar.gz -C ~/
+mv ~/WebStorm-141.1550 ~/webstorm
+cp -R /vagrant/.WebStorm10 ~/
+sudo chown -R vagrant ~/.WebStorm10
 mkdir -p ~/.local/share/applications/
 cp /vagrant/jetbrains-webstorm.desktop ~/.local/share/applications/
 mkdir -p ~/.gnome/apps/
