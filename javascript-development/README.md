@@ -1,5 +1,7 @@
 # JavaScript Development Environment #
 
+Based on an Ubuntu 14.04 LTS box.
+
 ## Apps ##
 * NodeJS
 * Chromium
