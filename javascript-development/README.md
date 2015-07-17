@@ -2,7 +2,7 @@
 
 ## Apps ##
 * NodeJS
-* Chrome
+* Chromium
 * WebStorm
 * Git
 * VIM
