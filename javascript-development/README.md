@@ -1,7 +1,7 @@
 # JavaScript Development Environment #
 
 ## Apps ##
-* NodeJS and NPM
+* NodeJS
 * Chrome
 * WebStorm
 * Git
