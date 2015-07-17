@@ -5,7 +5,7 @@
 * Chromium
 * WebStorm
 * Git
-* VIM
+* Vim
 * ZSH
 
 ## Utilities for NodeJS development ##
