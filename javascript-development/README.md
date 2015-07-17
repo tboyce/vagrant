@@ -1,12 +1,12 @@
 # JavaScript Development Environment #
 
 ## Apps ##
-* NodeJS
+* NodeJS and NPM
 * Chrome
 * WebStorm
 * Git
 * VIM
-* ZSH (including plugins for NPM, Git and Bower)
+* ZSH
 
 ## Utilities for NodeJS development ##
 * NPM
@@ -15,6 +15,7 @@
 * Bower
 * Karma
 * Yeoman
+* ZSH plugins for NPM, Git and Bower
 
 ## Getting started with a new AngularJS project ##
 ```
