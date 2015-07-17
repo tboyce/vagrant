@@ -1,6 +1,4 @@
-# vagrant
-
-Configuration files for vagrant.
+# vagrant configuration files
 
 * Install vagrant
 * Install VirtualBox
