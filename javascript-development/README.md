@@ -19,7 +19,6 @@
 
 ## Getting started with a new AngularJS project ##
 ```
-mkdir app
-cd app
+mkdir app && cd $_
 yo gulp-angular
 ```
