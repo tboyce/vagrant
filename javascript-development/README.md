@@ -5,6 +5,8 @@
 * Chrome
 * WebStorm
 * Git
+* VIM
+* ZSH (including plugins for NPM, Git and Bower)
 
 ## Utilities for NodeJS development ##
 * NPM
