@@ -23,3 +23,4 @@ Based on an Ubuntu 14.04 LTS box.
 * Create a new empty project in WebStorm
 * From the Terminal inside WebStorm run `yo gulp-angular` and answer the questions
 * Restart WebStorm to pick up the Gulp tasks
+* Use the Gulp tasks to build, run and test the project. Do not enable any file watchers in WebStorm.
