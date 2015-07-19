@@ -7,7 +7,10 @@ curl --silent --location https://deb.nodesource.com/setup_0.12 | bash -
 #apt-get update
 #apt-get upgrade -y
 apt-get install -y vim nodejs git zsh rake vim-gtk openjdk-7-jre chromium-browser unity-chromium-extension
-npm install -g grunt-cli karma-cli yo generator-angular generator-angular2 generator-gulp-angular gulp bower protractor
+npm install -g grunt-cli karma-cli yo generator-angular generator-angular2 generator-gulp-angular gulp bower protractor cucumber
+
+# Install selenium and drivers
+webdriver-manager update
 
 # Download WebStorm
 if [ ! -f /vagrant/WebStorm-10.0.4.tar.gz ]; then
